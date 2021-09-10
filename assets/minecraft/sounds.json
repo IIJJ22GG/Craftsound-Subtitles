@@ -1,0 +1,364 @@
+{
+  "craftsound.chuck.1.a": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.nether_bricks.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.chuck.1.b": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.chuck.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.nether_bricks.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.cloat.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.wool.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.cloat.2.a": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.wool.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.cloat.2.b": {
+    "sounds": [
+      {
+        "name": "block.crop.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.cloat.2.c": {
+    "sounds": [
+      {
+        "name": "block.snow.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.dirt.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.crop.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.dirt.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.gravel.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.enchant.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.conduit.activate",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.enchant.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.beacon.power_select",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.enchant.3": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.enchantment_table.use",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.fire.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.fire.extinguish",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.food.1.a": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "item.bottle.empty",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.food.1.b": {
+    "sounds": [
+      {
+        "name": "block.wooden_button.click_off",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.food.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.wooden_button.click_on",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.glass.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.glass.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.glass.2.a": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.glass.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.glass.2.b": {
+    "sounds": [
+      {
+        "name": "block.end_portal_frame.fill",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.grass.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.iron.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.iron.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.anvil.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.iron.3": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.anvil.use",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.iron.4": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.copper.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.page.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "item.book.page_turn",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.page.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "ui.cartography_table.take_result",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.sand.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.sand.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.slime.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.slime.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.snow.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.snow.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.2.a": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.beehive.shear",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.2.b": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.3.a": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.3.b": {
+    "sounds": [
+      {
+        "name": "block.shulker_box.open",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.4": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.deepslate.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.stone.5": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "amethyst_block.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.water.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "item.bucket.fill",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.wear.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "item.armor.equip_iron",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.wood.1": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.wood.break",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.wood.2": {
+    "subtitle": "subtitles.craftsound",
+    "sounds": [
+      {
+        "name": "block.stem.place",
+        "type": "event"
+      }
+    ]
+  },
+  "craftsound.wood.3": {
+    "subtitle": "subtitles.craftsound",
+    "sounds" : [
+      {
+        "name": "block.bamboo.break",
+        "type": "event"
+      }
+    ]
+  }
+}
